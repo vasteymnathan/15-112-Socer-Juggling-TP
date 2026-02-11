@@ -1,5 +1,4 @@
-# 15-112-Socer-Juggling-TP
-Nathan Vastey's Spring 2022 Programming Term Project
+# -Soccer-Juggling
 Demo Video Link: https://youtu.be/OYT_r9ixUbM
 
 112 Juggling:
